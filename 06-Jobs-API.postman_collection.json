@@ -129,7 +129,7 @@
 				"header": [
 					{
 						"key": "Authorization",
-						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NjJhNmQ4MjcwZGJmZjA5Y2NhZmU1YjQiLCJuYW1lIjoiSm9obiIsImlhdCI6MTcxNDA1NjU3OCwiZXhwIjoxNzE0MTQyOTc4fQ.YgFNGDrq2Y-NvhQwGDEJ_pf_5aixQuZE25vErJmt1LE",
+						"value": "#set bearer",
 						"type": "text",
 						"disabled": true
 					}
@@ -188,7 +188,7 @@
 				"header": [
 					{
 						"key": "Authorization",
-						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NjJhNmQ4MjcwZGJmZjA5Y2NhZmU1YjQiLCJuYW1lIjoiSm9obiIsImlhdCI6MTcxNDA1NjU3OCwiZXhwIjoxNzE0MTQyOTc4fQ.YgFNGDrq2Y-NvhQwGDEJ_pf_5aixQuZE25vErJmt1LE",
+						"value": "#set bearer",
 						"type": "text",
 						"disabled": true
 					}
